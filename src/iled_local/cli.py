@@ -26,7 +26,7 @@ def main():
     import sys
 
     if len(sys.argv) == 2 and sys.argv[1] in ('-h', '--help'):
-        print('iLED Local — integrated defect-calculation workflow\n'
+        print('iLED Local — local learning edition\n'
               'Usage: iLED {-pre|-tsle|-cdle|-adle|-esle|-nsle}\n'
               'Prepare POSCAR and iLED.para in the calculation directory.\n'
               'Use iled-local-info to inspect installed versions.\n'

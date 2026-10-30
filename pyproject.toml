@@ -5,11 +5,11 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "iled-local"
 version = "1.11.14.post1"
-description = "Local integration of iLED 1.11.14 with launcher and job-script fixes"
+description = "Local learning edition of iLED 1.11.14"
 readme = "README.md"
 requires-python = ">=3.10,<3.11"
 license = "LicenseRef-Proprietary"
-license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md"]
+license-files = ["LICENSE"]
 classifiers = [
     "Programming Language :: Python :: 3.10",
     "Operating System :: POSIX :: Linux",
