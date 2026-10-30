@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.lic
+POTCAR*
+*.pem
+*.key
+*.whl
+*.tar.gz
+.iled-local-snapshot/
+iLED.log
+.DS_Store
+build/
+dist/
+*.egg-info/
+examples/plot-demo/cdle/

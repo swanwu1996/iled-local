@@ -1,0 +1,16 @@
+{
+  "exit_code": 0,
+  "elapsed_seconds": 1.1628654630039819,
+  "stdout": "",
+  "stderr": "",
+  "cluster": "local",
+  "slurm_submitted": false,
+  "generated_file_sizes": {
+    "POSCAR": 19961,
+    "POTCAR": 477580,
+    "INCAR": 2803,
+    "KPOINTS": 37,
+    "submit_job.sh": 307
+  },
+  "script_first_line": "#!/bin/sh"
+}

@@ -1,0 +1,62 @@
+{
+  "import_path": "/home/qhwu/miniconda3/envs/iled/lib/python3.10/site-packages/CDLE/AutoRun/__init__.py",
+  "native_sha256": "b89dbc8ebf6dbd82960dcb18c4d8460aa0e161a886c044c2b75d35bf7cdc3156",
+  "writers": [
+    {
+      "method": "write_PRE_jobfile",
+      "header_fixed": true,
+      "body_unchanged": true,
+      "mode_preserved": true,
+      "normalization_idempotent": true
+    },
+    {
+      "method": "write_AEXX_jobfile",
+      "header_fixed": true,
+      "body_unchanged": true,
+      "mode_preserved": true,
+      "normalization_idempotent": true
+    },
+    {
+      "method": "write_PRE_jobfile_fin",
+      "header_fixed": true,
+      "body_unchanged": true,
+      "mode_preserved": true,
+      "normalization_idempotent": true
+    },
+    {
+      "method": "write_DPE_jobfile",
+      "header_fixed": true,
+      "body_unchanged": true,
+      "mode_preserved": true,
+      "normalization_idempotent": true
+    },
+    {
+      "method": "write_chg_relax_jobfile",
+      "header_fixed": true,
+      "body_unchanged": true,
+      "mode_preserved": true,
+      "normalization_idempotent": true
+    },
+    {
+      "method": "write_chg_static_jobfile",
+      "header_fixed": true,
+      "body_unchanged": true,
+      "mode_preserved": true,
+      "normalization_idempotent": true
+    },
+    {
+      "method": "write_neu_relax_jobfile",
+      "header_fixed": true,
+      "body_unchanged": true,
+      "mode_preserved": true,
+      "normalization_idempotent": true
+    },
+    {
+      "method": "write_neu_static_jobfile",
+      "header_fixed": true,
+      "body_unchanged": true,
+      "mode_preserved": true,
+      "normalization_idempotent": true
+    }
+  ]
+}

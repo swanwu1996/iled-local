@@ -1,0 +1,14 @@
+ase==3.29.0
+cryptography==50.0.0
+dpdata==1.0.2
+h5py==3.16.0
+matplotlib==3.10.9
+mp-api==0.45.10
+numpy==2.2.6
+pandas==2.3.3
+phonopy==4.4.0
+pymatgen==2025.1.9
+PyYAML==6.0.3
+requests==2.34.2
+scipy==1.15.3
+spglib==2.7.0

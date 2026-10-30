@@ -1,0 +1,7 @@
+{
+  "bash_syntax_exit_code": 0,
+  "existing_script_body_unchanged": true,
+  "slurm_test_only_exit_code": 0,
+  "slurm_test_only_stdout": "sbatch: Job 7837 to start at 2026-10-22T10:32:13 using 64 processors on nodes node01 in partition SX",
+  "slurm_submitted": false
+}

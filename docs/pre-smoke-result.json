@@ -1,0 +1,33 @@
+{
+  "runs": [
+    {
+      "label": "original",
+      "command": [
+        "/home/qhwu/software/iled/analysis/rea-iled/pre-smoke/original-bin/iLED",
+        "-pre"
+      ],
+      "cwd": "/home/qhwu/software/iled/analysis/rea-iled/pre-smoke/original-control",
+      "exit_code": 2,
+      "elapsed_seconds": 0.06607437133789062,
+      "stdout": "",
+      "stderr": "iLED activation error: iLED activation signature is missing\nRun 'iLED --activation-request' and contact the provider.\n"
+    },
+    {
+      "label": "patched",
+      "command": [
+        "/home/qhwu/miniconda3/envs/iled/bin/iLED",
+        "-pre"
+      ],
+      "cwd": "/home/qhwu/software/iled/analysis/rea-iled/pre-smoke/si-pre",
+      "exit_code": 0,
+      "elapsed_seconds": 0.9306380748748779,
+      "stdout": "",
+      "stderr": ""
+    }
+  ],
+  "license_fixture": "/home/qhwu/software/iled/analysis/rea-iled/pre-smoke/invalid-license-control.json",
+  "calculation_module_mocked": false,
+  "dispatcher_mocked": false,
+  "cluster": "local",
+  "vasp_execution_requested": false
+}

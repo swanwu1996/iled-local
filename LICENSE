@@ -1,0 +1,9 @@
+Licensing notice
+
+The upstream iLED 1.11.14 binary distribution declares its license as
+"Proprietary" in its package metadata. This repository does not grant a new
+license to the upstream program or its bundled third-party components.
+
+The repository contains a local integration snapshot and is not an official
+upstream release. Public availability does not change the upstream license.
+No additional redistribution or use rights are granted by this notice.
